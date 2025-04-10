@@ -1,0 +1,43 @@
+h1 {
+    color:cornsilk;
+    background-color:darkolivegreen;
+    text-align: center;
+}
+p {
+    color:saddlebrown;
+    background-color: azure;
+}
+#ZamanZulkarnaen {
+    color: papayawhip;
+    background-color: dimgray;
+}
+.Warnasatu {
+    color: brown;
+    background-color: cornsilk;
+}
+.Warnadua {
+    color: peru;
+    background-color: lightgrey;
+}
+.Warnatiga {
+    color: navajowhite;
+    background-color: brown;
+}
+#kotak-satu {
+    height: 100px;
+    width: 1000px;
+    background-color: tan;
+    margin-bottom: 10px;
+}
+#kotak-dua{
+    height: 100px;
+    width: 1000;
+    background-color: sienna;
+}
+ #kotak-dua{
+        height: 100px;
+        width: 1000;
+        background-color: sienna;
+    
+}
+    
